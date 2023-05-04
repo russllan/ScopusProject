@@ -1,0 +1,1040 @@
+{
+   "search-results": {
+      "totalResults": 125,
+      "startIndex": 0,
+      "itemsPerPage": 25,
+      "Query": "",
+      "link": [
+         "",
+         "",
+         "",
+         ""
+      ],
+      "entry": [
+         {
+            
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85148968920",
+            "identifier": "SCOPUS_ID:85148968920",
+            "eid": "2-s2.0-85148968920",
+            "title": "Fluxgate Sensor with Bifactor Excitation Mode",
+            "creator": "Bryakin I.V.",
+            "publicationName": "Sensors",
+            "issn": 14248220,
+            "volume": 23,
+            "issueIdentifier": 4,
+            "pageRange": "",
+            "coverDate": "2023-02-01",
+            "coverDisplayDate": "February 2023",
+            "doi": "10.3390/s23041775",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "National Academy of Sciences of the Kyrgyz Republic",
+               "affiliation-city": "Bishkek",
+               "affiliation-country": "Kyrgyzstan"
+            },
+            "pubmed-id": 36850372,
+            "aggregationType": "Journal",
+            "subtype": "ar",
+            "subtypeDescription": "Article",
+            "article-number": 1775,
+            "source-id": 130124,
+            "openaccess": 1,
+            "openaccessFlag": true,
+            "freetoread": {
+               "value": [
+                  "all",
+                  "publisherfullgold",
+                  "repository",
+                  "repositoryvor"
+               ]
+            },
+            "freetoreadLabel": {
+               "value": [
+                  "All Open Access",
+                  "Gold",
+                  "Green"
+               ]
+            }
+            
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85151059392",
+            "identifier": "SCOPUS_ID:85151059392",
+            "eid": "2-s2.0-85151059392",
+            "title": "Artificial Intelligence for Water Supply Systems",
+            "creator": "Novosjolov M.",
+            "publicationName": "Lecture Notes in Civil Engineering",
+            "issn": 23662557,
+            "eIssn": 23662565,
+            "isbn": 9783031211195,
+            "volume": 308,
+            "pageRange": "583-595",
+            "coverDate": "2023-01-01",
+            "coverDisplayDate": 2023,
+            "doi": "10.1007/978-3-031-21120-1_56",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "South Ural State University",
+               "affiliation-city": "Chelyabinsk",
+               "affiliation-country": "Russian Federation"
+            },
+            "aggregationType": "Book Series",
+            "subtype": "cp",
+            "subtypeDescription": "Conference Paper",
+            "source-id": 21100889404,
+            "openaccess": 0,
+            "openaccessFlag": false
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85149831135",
+            "identifier": "SCOPUS_ID:85149831135",
+            "eid": "2-s2.0-85149831135",
+            "title": "Business Process Designing of the Institutional Ranking System of Higher Education of the Kyrgyz Republic",
+            "creator": "Koshoeva B.B.",
+            "publicationName": "Communications in Computer and Information Science",
+            "issn": 18650929,
+            "eIssn": 18650937,
+            "isbn": 9783031237430,
+            "volume": "1733 CCIS",
+            "pageRange": "168-182",
+            "coverDate": "2023-01-01",
+            "coverDisplayDate": 2023,
+            "doi": "10.1007/978-3-031-23744-7_13",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "I. Razzakov Kyrgyz State Technical University",
+               "affiliation-city": "Bishkek",
+               "affiliation-country": "Kyrgyzstan"
+            },
+            "aggregationType": "Book Series",
+            "subtype": "cp",
+            "subtypeDescription": "Conference Paper",
+            "source-id": 17700155007,
+            "openaccess": 0,
+            "openaccessFlag": false
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85149690849",
+            "identifier": "SCOPUS_ID:85149690849",
+            "eid": "2-s2.0-85149690849",
+            "title": "Development of Electric Drive Control Scheme for Biogas Plant",
+            "creator": "Bochkarev I.V.",
+            "publicationName": "Lecture Notes in Electrical Engineering",
+            "issn": 18761100,
+            "eIssn": 18761119,
+            "isbn": 9783031223105,
+            "volume": "986 LNEE",
+            "pageRange": "421-429",
+            "coverDate": "2023-01-01",
+            "coverDisplayDate": 2023,
+            "doi": "10.1007/978-3-031-22311-2_40",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "I. Razzakov Kyrgyz State Technical University",
+               "affiliation-city": "Bishkek",
+               "affiliation-country": "Kyrgyzstan"
+            },
+            "aggregationType": "Book Series",
+            "subtype": "cp",
+            "subtypeDescription": "Conference Paper",
+            "source-id": 19700186822,
+            "openaccess": 0,
+            "openaccessFlag": false
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85151515289",
+            "identifier": "SCOPUS_ID:85151515289",
+            "eid": "2-s2.0-85151515289",
+            "title": "Investigation of Earthquake Deformation Detectability Using Sentinel-1 Interferometric Data",
+            "creator": "Djenaliev A.",
+            "publicationName": "International Journal of Geoinformatics",
+            "issn": 16866576,
+            "eIssn": 26730014,
+            "volume": 18,
+            "issueIdentifier": 6,
+            "pageRange": "81-96",
+            "coverDate": "2022-12-01",
+            "coverDisplayDate": "December 2022",
+            "doi": "10.52939/ijg.v18i6.2453",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "Technische Universität Berlin",
+               "affiliation-city": "Berlin",
+               "affiliation-country": "Germany"
+            },
+            "aggregationType": "Journal",
+            "subtype": "ar",
+            "subtypeDescription": "Article",
+            "source-id": 21100198528,
+            "openaccess": 1,
+            "openaccessFlag": true,
+            "freetoread": {
+               "value": [
+                  "all",
+                  "publisherfree2read"
+               ]
+            },
+            "freetoreadLabel": {
+               "value": [
+                  "All Open Access",
+                  "Bronze"
+               ]
+            }
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85134767242",
+            "identifier": "SCOPUS_ID:85134767242",
+            "eid": "2-s2.0-85134767242",
+            "title": "Rheological, microbiological and sensory properties of fermented khainak milk fermented with different starter cultures",
+            "creator": "Elemanova R.",
+            "publicationName": "International Dairy Journal",
+            "issn": 9586946,
+            "volume": 134,
+            "pageRange": "",
+            "coverDate": "2022-11-01",
+            "coverDisplayDate": "November 2022",
+            "doi": "10.1016/j.idairyj.2022.105453",
+            "pii": "S0958694622001376",
+            "citedby-count": 1,
+            "affiliation": {
+               "affilname": "I. Razzakov Kyrgyz State Technical University",
+               "affiliation-city": "Bishkek",
+               "affiliation-country": "Kyrgyzstan"
+            },
+            "aggregationType": "Journal",
+            "subtype": "ar",
+            "subtypeDescription": "Article",
+            "article-number": 105453,
+            "source-id": 51565,
+            "openaccess": 0,
+            "openaccessFlag": false
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85140473506",
+            "identifier": "SCOPUS_ID:85140473506",
+            "eid": "2-s2.0-85140473506",
+            "title": "Documenting Archaeological Petroglyph Sites with the Use of 3D Terrestrial Laser Scanners—A Case Study of Petroglyphs in Kyrgyzstan",
+            "creator": "Kęsik J.",
+            "publicationName": "Applied Sciences (Switzerland)",
+            "eIssn": 20763417,
+            "volume": 12,
+            "issueIdentifier": 20,
+            "pageRange": "",
+            "coverDate": "2022-10-01",
+            "coverDisplayDate": "October 2022",
+            "doi": "10.3390/app122010521",
+            "citedby-count": 2,
+            "affiliation": {
+               "affilname": "Politechnika Lubelska",
+               "affiliation-city": "Lublin",
+               "affiliation-country": "Poland"
+            },
+            "aggregationType": "Journal",
+            "subtype": "ar",
+            "subtypeDescription": "Article",
+            "article-number": 10521,
+            "source-id": 21100829268,
+            "openaccess": 1,
+            "openaccessFlag": true,
+            "freetoread": {
+               "value": [
+                  "all",
+                  "publisherfullgold"
+               ]
+            },
+            "freetoreadLabel": {
+               "value": [
+                  "All Open Access",
+                  "Gold"
+               ]
+            }
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85132938195",
+            "identifier": "SCOPUS_ID:85132938195",
+            "eid": "2-s2.0-85132938195",
+            "title": "Milk- and cereal-based Kyrgyz ethnic foods",
+            "creator": "Smanalieva J.",
+            "publicationName": "International Journal of Gastronomy and Food Science",
+            "issn": "1878450X",
+            "eIssn": 18784518,
+            "volume": 29,
+            "pageRange": "",
+            "coverDate": "2022-09-01",
+            "coverDisplayDate": "September 2022",
+            "doi": "10.1016/j.ijgfs.2022.100507",
+            "pii": "S1878450X22000427",
+            "citedby-count": 1,
+            "affiliation": [
+               {
+                  "affilname": "I. Razzakov Kyrgyz State Technical University",
+                  "affiliation-city": "Bishkek",
+                  "affiliation-country": "Kyrgyzstan"
+               },
+               {
+                  "affilname": "Technische Universität Dresden",
+                  "affiliation-city": "Dresden",
+                  "affiliation-country": "Germany"
+               }
+            ],
+            "aggregationType": "Journal",
+            "subtype": "re",
+            "subtypeDescription": "Review",
+            "article-number": 100507,
+            "source-id": 21100789945,
+            "openaccess": 0,
+            "openaccessFlag": false
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85137544259",
+            "identifier": "SCOPUS_ID:85137544259",
+            "eid": "2-s2.0-85137544259",
+            "title": "Power Transformer Condition Monitoring Based on Evaluating Oil Properties",
+            "creator": "Bryakin I.V.",
+            "publicationName": "Machines",
+            "eIssn": 20751702,
+            "volume": 10,
+            "issueIdentifier": 8,
+            "pageRange": "",
+            "coverDate": "2022-08-01",
+            "coverDisplayDate": "August 2022",
+            "doi": "10.3390/machines10080630",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "National Academy of Sciences of the Kyrgyz Republic",
+               "affiliation-city": "Bishkek",
+               "affiliation-country": "Kyrgyzstan"
+            },
+            "aggregationType": "Journal",
+            "subtype": "ar",
+            "subtypeDescription": "Article",
+            "article-number": 630,
+            "source-id": 21100838145,
+            "openaccess": 1,
+            "openaccessFlag": true,
+            "freetoread": {
+               "value": [
+                  "all",
+                  "publisherfullgold"
+               ]
+            },
+            "freetoreadLabel": {
+               "value": [
+                  "All Open Access",
+                  "Gold"
+               ]
+            }
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85128290812",
+            "identifier": "SCOPUS_ID:85128290812",
+            "eid": "2-s2.0-85128290812",
+            "title": "Structural and Kinematic Analysis of a Lever Variator with Spatial Transforming Mechanisms",
+            "creator": "Abdiraimov A.A.",
+            "publicationName": "Journal of Machinery Manufacture and Reliability",
+            "issn": 10526188,
+            "eIssn": 19349394,
+            "volume": 51,
+            "issueIdentifier": 2,
+            "pageRange": "95-102",
+            "coverDate": "2022-04-01",
+            "coverDisplayDate": "April 2022",
+            "doi": "10.3103/S1052618822020029",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "I. Razzakov Kyrgyz State Technical University",
+               "affiliation-city": "Bishkek",
+               "affiliation-country": "Kyrgyzstan"
+            },
+            "aggregationType": "Journal",
+            "subtype": "ar",
+            "subtypeDescription": "Article",
+            "source-id": 21100198238,
+            "openaccess": 0,
+            "openaccessFlag": false
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85119448127",
+            "identifier": "SCOPUS_ID:85119448127",
+            "eid": "2-s2.0-85119448127",
+            "title": "An ethnoveterinary study of wild medicinal plants used by the Kyrgyz farmers",
+            "creator": "Aldayarov N.",
+            "publicationName": "Journal of Ethnopharmacology",
+            "issn": 3788741,
+            "eIssn": 18727573,
+            "volume": 285,
+            "pageRange": "",
+            "coverDate": "2022-03-01",
+            "coverDisplayDate": "1 March 2022",
+            "doi": "10.1016/j.jep.2021.114842",
+            "pii": "S0378874121010722",
+            "citedby-count": 1,
+            "affiliation": {
+               "affilname": "Kyrgyz-Turkish Manas University",
+               "affiliation-city": "Bishkek",
+               "affiliation-country": "Kyrgyzstan"
+            },
+            "pubmed-id": 34798160,
+            "aggregationType": "Journal",
+            "subtype": "ar",
+            "subtypeDescription": "Article",
+            "article-number": 114842,
+            "source-id": 23015,
+            "openaccess": 0,
+            "openaccessFlag": false
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85123031366",
+            "identifier": "SCOPUS_ID:85123031366",
+            "eid": "2-s2.0-85123031366",
+            "title": "Power Flows and Losses Calculation in Radial Networks by Representing the Network Topology in the Hierarchical Structure Form",
+            "creator": "Gulakhmadov A.",
+            "publicationName": "Energies",
+            "eIssn": 19961073,
+            "volume": 15,
+            "issueIdentifier": 3,
+            "pageRange": "",
+            "coverDate": "2022-02-01",
+            "coverDisplayDate": "February-1 2022",
+            "doi": "10.3390/en15030765",
+            "citedby-count": 1,
+            "affiliation": [
+               {
+                  "affilname": "Xinjiang Institute of Ecology and Geography Chinese Academy of Sciences",
+                  "affiliation-city": "Urumqi",
+                  "affiliation-country": "China"
+               },
+               {
+                  "affilname": "Academy of Sciences of the Republic of Tadzhikistan",
+                  "affiliation-city": "Dushanbe",
+                  "affiliation-country": "Tajikistan"
+               },
+               {
+                  "affilname": "Ministry of Energy and Water Resources of the Republic of Tajikistan",
+                  "affiliation-city": "Dushanbe",
+                  "affiliation-country": "Tajikistan"
+               }
+            ],
+            "aggregationType": "Journal",
+            "subtype": "ar",
+            "subtypeDescription": "Article",
+            "article-number": 765,
+            "source-id": 62932,
+            "openaccess": 1,
+            "openaccessFlag": true,
+            "freetoread": {
+               "value": [
+                  "all",
+                  "publisherfullgold",
+                  "repository",
+                  "repositoryvor"
+               ]
+            },
+            "freetoreadLabel": {
+               "value": [
+                  "All Open Access",
+                  "Gold",
+                  "Green"
+               ]
+            }
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85145203666",
+            "identifier": "SCOPUS_ID:85145203666",
+            "eid": "2-s2.0-85145203666",
+            "title": "Geomechanical substantiation of the parameters for the mining system with ore shrinkage in the combined mining of steep-dipping ore bodies",
+            "creator": "Isabek T.",
+            "publicationName": "Mining of Mineral Deposits",
+            "issn": 24153435,
+            "eIssn": 24153443,
+            "volume": 16,
+            "issueIdentifier": 4,
+            "pageRange": "115-121",
+            "coverDate": "2022-01-01",
+            "coverDisplayDate": 2022,
+            "doi": "10.33271/mining16.04.115",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "Abylkas Saginov Karaganda Technical University",
+               "affiliation-city": "Karaganda",
+               "affiliation-country": "Kazakhstan"
+            },
+            "aggregationType": "Journal",
+            "subtype": "ar",
+            "subtypeDescription": "Article",
+            "source-id": 21100914192,
+            "openaccess": 1,
+            "openaccessFlag": true,
+            "freetoread": {
+               "value": [
+                  "all",
+                  "publisherhybridgold"
+               ]
+            },
+            "freetoreadLabel": {
+               "value": [
+                  "All Open Access",
+                  "Hybrid Gold"
+               ]
+            }
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85143596576",
+            "identifier": "SCOPUS_ID:85143596576",
+            "eid": "2-s2.0-85143596576",
+            "title": "AMINO ACID COMPOSITION AND SOME PHYSICOCHEMICAL PARAMETERS OF MULTI-FLORAL HONEY FROM MOUNTAINOUS REGIONS OF KYRGYZSTAN",
+            "creator": "Mazhitova A.",
+            "publicationName": "Uludag Aricilik Dergisi",
+            "issn": 13030248,
+            "volume": 22,
+            "issueIdentifier": 2,
+            "pageRange": "188-202",
+            "coverDate": "2022-01-01",
+            "coverDisplayDate": 2022,
+            "doi": "10.31467/uluaricilik.1143337",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "Kyrgyz-Turkish Manas University",
+               "affiliation-city": "Bishkek",
+               "affiliation-country": "Kyrgyzstan"
+            },
+            "aggregationType": "Journal",
+            "subtype": "ar",
+            "subtypeDescription": "Article",
+            "source-id": 21100967042,
+            "openaccess": 1,
+            "openaccessFlag": true,
+            "freetoread": {
+               "value": [
+                  "all",
+                  "publisherfullgold",
+                  "repository",
+                  "repositoryam"
+               ]
+            },
+            "freetoreadLabel": {
+               "value": [
+                  "All Open Access",
+                  "Gold",
+                  "Green"
+               ]
+            }
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85141652245",
+            "identifier": "SCOPUS_ID:85141652245",
+            "eid": "2-s2.0-85141652245",
+            "title": "Seasonal Changes in the Protein Composition of Khainak Milk",
+            "creator": "Elemanova R.S.",
+            "publicationName": "Food Processing: Techniques and Technology",
+            "issn": 20749414,
+            "eIssn": 23131748,
+            "volume": 52,
+            "issueIdentifier": 3,
+            "pageRange": "555-569",
+            "coverDate": "2022-01-01",
+            "coverDisplayDate": 2022,
+            "doi": "10.21603/2074-9414-2022-3-2381",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "I. Razzakov Kyrgyz State Technical University",
+               "affiliation-city": "Bishkek",
+               "affiliation-country": "Kyrgyzstan"
+            },
+            "aggregationType": "Journal",
+            "subtype": "ar",
+            "subtypeDescription": "Article",
+            "source-id": 21101028329,
+            "openaccess": 1,
+            "openaccessFlag": true,
+            "freetoread": {
+               "value": [
+                  "all",
+                  "publisherfullgold"
+               ]
+            },
+            "freetoreadLabel": {
+               "value": [
+                  "All Open Access",
+                  "Gold"
+               ]
+            }
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85140879501",
+            "identifier": "SCOPUS_ID:85140879501",
+            "eid": "2-s2.0-85140879501",
+            "title": "Intelligent Monitoring System of Underground Cable Network Faults",
+            "creator": "Verzunov S.N.",
+            "publicationName": "Proceedings - 2022 International Russian Automation Conference, RusAutoCon 2022",
+            "isbn": 9781665466554,
+            "pageRange": "950-955",
+            "coverDate": "2022-01-01",
+            "coverDisplayDate": 2022,
+            "doi": "10.1109/RusAutoCon54946.2022.9896255",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "National Academy of Sciences of the Kyrgyz Republic",
+               "affiliation-city": "Bishkek",
+               "affiliation-country": "Kyrgyzstan"
+            },
+            "aggregationType": "Conference Proceeding",
+            "subtype": "cp",
+            "subtypeDescription": "Conference Paper",
+            "source-id": 21101117302,
+            "openaccess": 0,
+            "openaccessFlag": false
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85139742407",
+            "identifier": "SCOPUS_ID:85139742407",
+            "eid": "2-s2.0-85139742407",
+            "title": "Inertial Forces and Torques Acting on a Spinning Annulus",
+            "creator": "Usubamatov R.",
+            "publicationName": "Advances in Mathematical Physics",
+            "issn": 16879120,
+            "eIssn": 16879139,
+            "volume": 2022,
+            "pageRange": "",
+            "coverDate": "2022-01-01",
+            "coverDisplayDate": 2022,
+            "doi": "10.1155/2022/3371936",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "I. Razzakov Kyrgyz State Technical University",
+               "affiliation-city": "Bishkek",
+               "affiliation-country": "Kyrgyzstan"
+            },
+            "aggregationType": "Journal",
+            "subtype": "ar",
+            "subtypeDescription": "Article",
+            "article-number": 3371936,
+            "source-id": 19900192029,
+            "openaccess": 1,
+            "openaccessFlag": true,
+            "freetoread": {
+               "value": [
+                  "all",
+                  "publisherfullgold"
+               ]
+            },
+            "freetoreadLabel": {
+               "value": [
+                  "All Open Access",
+                  "Gold"
+               ]
+            }
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85135449492",
+            "identifier": "SCOPUS_ID:85135449492",
+            "eid": "2-s2.0-85135449492",
+            "title": "Assessing the Impacts on Natural Ecosystems of the Future Kambarata-1 Hydropower Station on the Naryn River, Kyrgyzstan: A GIS-based Approach",
+            "creator": "Betz F.",
+            "publicationName": "GI_Forum",
+            "eIssn": 23081708,
+            "volume": 10,
+            "issueIdentifier": 1,
+            "pageRange": "48-57",
+            "coverDate": "2022-01-01",
+            "coverDisplayDate": 2022,
+            "doi": "10.1553/giscience2022_01_s48",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "Katholische Universität Eichstätt - Ingolstadt",
+               "affiliation-city": "Eichstatt",
+               "affiliation-country": "Germany"
+            },
+            "aggregationType": "Journal",
+            "subtype": "ar",
+            "subtypeDescription": "Article",
+            "source-id": 21101021535,
+            "openaccess": 1,
+            "openaccessFlag": true,
+            "freetoread": {
+               "value": [
+                  "all",
+                  "publisherfullgold",
+                  "repository",
+                  "repositoryam"
+               ]
+            },
+            "freetoreadLabel": {
+               "value": [
+                  "All Open Access",
+                  "Gold",
+                  "Green"
+               ]
+            }
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85134238183",
+            "identifier": "SCOPUS_ID:85134238183",
+            "eid": "2-s2.0-85134238183",
+            "title": "Application of smart logistics technologies in the organization of multimodal cargo delivery",
+            "creator": "Orozonova A.",
+            "publicationName": "Transportation Research Procedia",
+            "issn": 23521457,
+            "eIssn": 23521465,
+            "volume": 63,
+            "pageRange": "1192-1198",
+            "coverDate": "2022-01-01",
+            "coverDisplayDate": 2022,
+            "doi": "10.1016/j.trpro.2022.06.124",
+            "pii": "S2352146522003799",
+            "citedby-count": 2,
+            "affiliation": {
+               "affilname": "Jusup Balasagyn Kyrgyz National University",
+               "affiliation-city": "Bishkek",
+               "affiliation-country": "Kyrgyzstan"
+            },
+            "aggregationType": "Conference Proceeding",
+            "subtype": "cp",
+            "subtypeDescription": "Conference Paper",
+            "source-id": 21100448300,
+            "openaccess": 1,
+            "openaccessFlag": true,
+            "freetoread": {
+               "value": [
+                  "all",
+                  "publisherfullgold"
+               ]
+            },
+            "freetoreadLabel": {
+               "value": [
+                  "All Open Access",
+                  "Gold"
+               ]
+            }
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85133129895",
+            "identifier": "SCOPUS_ID:85133129895",
+            "eid": "2-s2.0-85133129895",
+            "title": "Acoustic Emission Probe for Power Line Structure Diagnostic Systems",
+            "creator": "Bryakin I.V.",
+            "publicationName": "Proceedings - 2022 International Conference on Industrial Engineering, Applications and Manufacturing, ICIEAM 2022",
+            "isbn": 9781665483698,
+            "pageRange": "108-113",
+            "coverDate": "2022-01-01",
+            "coverDisplayDate": 2022,
+            "doi": "10.1109/ICIEAM54945.2022.9787157",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "National Academy of Sciences of the Kyrgyz Republic",
+               "affiliation-city": "Bishkek",
+               "affiliation-country": "Kyrgyzstan"
+            },
+            "aggregationType": "Conference Proceeding",
+            "subtype": "cp",
+            "subtypeDescription": "Conference Paper",
+            "source-id": 21101094424,
+            "openaccess": 0,
+            "openaccessFlag": false
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85133120625",
+            "identifier": "SCOPUS_ID:85133120625",
+            "eid": "2-s2.0-85133120625",
+            "title": "Researching Dynamic Processes in Electromechanical Braking Devices with Massive Magnetic System",
+            "creator": "Bochkarev I.V.",
+            "publicationName": "Proceedings - 2022 International Conference on Industrial Engineering, Applications and Manufacturing, ICIEAM 2022",
+            "isbn": 9781665483698,
+            "pageRange": "510-514",
+            "coverDate": "2022-01-01",
+            "coverDisplayDate": 2022,
+            "doi": "10.1109/ICIEAM54945.2022.9787263",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "I. Razzakov Kyrgyz State Technical University",
+               "affiliation-city": "Bishkek",
+               "affiliation-country": "Kyrgyzstan"
+            },
+            "aggregationType": "Conference Proceeding",
+            "subtype": "cp",
+            "subtypeDescription": "Conference Paper",
+            "source-id": 21101094424,
+            "openaccess": 0,
+            "openaccessFlag": false
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85127651803",
+            "identifier": "SCOPUS_ID:85127651803",
+            "eid": "2-s2.0-85127651803",
+            "title": "Impact of operation mode in terms of reactive power regulations on technical condition and reliability of generating equipment operation",
+            "creator": "Lenev S.",
+            "publicationName": "Proceedings of the 2022 4th International Youth Conference on Radio Electronics, Electrical and Power Engineering, REEPE 2022",
+            "isbn": 9781665414340,
+            "pageRange": "",
+            "coverDate": "2022-01-01",
+            "coverDisplayDate": 2022,
+            "doi": "10.1109/REEPE53907.2022.9731385",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "OAO MOSENERGO",
+               "affiliation-city": "Moscow",
+               "affiliation-country": "Russian Federation"
+            },
+            "aggregationType": "Conference Proceeding",
+            "subtype": "cp",
+            "subtypeDescription": "Conference Paper",
+            "source-id": 21101083403,
+            "openaccess": 0,
+            "openaccessFlag": false
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85124167517",
+            "identifier": "SCOPUS_ID:85124167517",
+            "eid": "2-s2.0-85124167517",
+            "title": "Developing a Microprocessor-Based Equipment Control Panel for Rifle Sports Complexes",
+            "creator": "Kadyrov I.",
+            "publicationName": "Communications in Computer and Information Science",
+            "issn": 18650929,
+            "eIssn": 18650937,
+            "isbn": 9783030941406,
+            "volume": "1526 CCIS",
+            "pageRange": "314-324",
+            "coverDate": "2022-01-01",
+            "coverDisplayDate": 2022,
+            "doi": "10.1007/978-3-030-94141-3_25",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "Kyrgyz National Agrarian University named after K. I. Skryabin",
+               "affiliation-city": "Bishkek",
+               "affiliation-country": "Kyrgyzstan"
+            },
+            "aggregationType": "Book Series",
+            "subtype": "cp",
+            "subtypeDescription": "Conference Paper",
+            "source-id": 17700155007,
+            "openaccess": 0,
+            "openaccessFlag": false
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85122684435",
+            "identifier": "SCOPUS_ID:85122684435",
+            "eid": "2-s2.0-85122684435",
+            "title": "Dietary Quality of Women of Reproductive Age in Low-Income Settings: A Cross-Sectional Study in Kyrgyzstan",
+            "creator": "Otunchieva A.",
+            "publicationName": "Nutrients",
+            "eIssn": 20726643,
+            "volume": 14,
+            "issueIdentifier": 2,
+            "pageRange": "",
+            "coverDate": "2022-01-01",
+            "coverDisplayDate": "January-2 2022",
+            "doi": "10.3390/nu14020289",
+            "citedby-count": 2,
+            "affiliation": {
+               "affilname": "Universität Kassel",
+               "affiliation-city": "Kassel",
+               "affiliation-country": "Germany"
+            },
+            "pubmed-id": 35057471,
+            "aggregationType": "Journal",
+            "subtype": "ar",
+            "subtypeDescription": "Article",
+            "article-number": 289,
+            "source-id": 19700188323,
+            "openaccess": 1,
+            "openaccessFlag": true,
+            "freetoread": {
+               "value": [
+                  "all",
+                  "publisherfullgold",
+                  "repository",
+                  "repositoryvor"
+               ]
+            },
+            "freetoreadLabel": {
+               "value": [
+                  "All Open Access",
+                  "Gold",
+                  "Green"
+               ]
+            }
+         },
+         {
+            "link": [
+               "",
+               "",
+               "",
+               ""
+            ],
+            "url": "https://api.elsevier.com/content/abstract/scopus_id/85122575006",
+            "identifier": "SCOPUS_ID:85122575006",
+            "eid": "2-s2.0-85122575006",
+            "title": "Implementing the Industry 4.0 Concept in the Information System at the Preproduction Stage",
+            "creator": "Yunakov I.",
+            "publicationName": "Lecture Notes in Mechanical Engineering",
+            "issn": 21954356,
+            "eIssn": 21954364,
+            "isbn": 9783030852290,
+            "pageRange": "33-39",
+            "coverDate": "2022-01-01",
+            "coverDisplayDate": 2022,
+            "doi": "10.1007/978-3-030-85230-6_5",
+            "citedby-count": 0,
+            "affiliation": {
+               "affilname": "Baltic State Technical University “VOENMEH”",
+               "affiliation-city": "Saint Petersburg",
+               "affiliation-country": "Russian Federation"
+            },
+            "aggregationType": "Book Series",
+            "subtype": "cp",
+            "subtypeDescription": "Conference Paper",
+            "source-id": 21100431311,
+            "openaccess": 0,
+            "openaccessFlag": false
+         }
+      ]
+   }
+}
